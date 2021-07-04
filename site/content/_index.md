@@ -1,7 +1,7 @@
 ---
 title: "Code Better"
 subtitle: Becoming a better developer, one day at a time
-image: /img/home-jumbotron.jpg
+image: /img/pexels-home-jumbotron.jpg
 blurb:
     heading: Why Codebetter?
     text: "For most top developers it's not just a job, it's a lifestyle. Technology is a fast moving field and continuous learning and improvment is the only way to continue being relevant."
