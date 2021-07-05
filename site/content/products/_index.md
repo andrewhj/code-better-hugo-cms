@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: "Our Coffee"
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
@@ -62,7 +62,7 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried CodeBetter��s coffee, I couldn’t even believe that was
+      The first time I tried CodeBetter��s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
